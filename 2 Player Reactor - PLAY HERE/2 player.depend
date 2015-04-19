@@ -1,0 +1,362 @@
+# depslib dependency file v1.0
+1427725816 source:c:\users\ambuja\desktop\2 player\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<iostream>
+	<stdlib.h>
+	"convert.h"
+	"eqqq.h"
+	"display.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1426302865 c:\allegro-5.0.10-msvc-11.0\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1426302867 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\alplatf.h
+
+1426302867 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1426302866 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1426302867 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1426304972 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1426302867 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1426302866 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1426302867 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1426302867 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\alunix.h
+
+1426302867 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1426302867 c:\allegro-5.0.10-msvc-11.0\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\color.h
+	"allegro5/base.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\path.h
+	"allegro5/base.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\blender.h
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\config.h
+	"allegro5/file.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\error.h
+	"allegro5/base.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1426302866 c:\allegro-5.0.10-msvc-11.0\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\fullscreen_mode.h
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\keycodes.h
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\memory.h
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\monitor.h
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\timer.h
+	"allegro5/base.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\alcompat.h
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\allegro_native_dialog.h
+	"allegro5/allegro.h"
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1426302863 c:\allegro-5.0.10-msvc-11.0\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1426454568 source:c:\users\ambuja\desktop\2 player\yujkgu.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<iostream>
+	<stdlib.h>
+
+1426476054 source:c:\users\ambuja\desktop\2 player\.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<iostream>
+	<stdlib.h>
+
+1426956701 source:c:\users\ambuja\desktop\2 player\fal.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<iostream>
+	<stdlib.h>
+
+1426539699 source:c:\users\ambuja\desktop\2 player\add name.cpp
+
+1426955173 source:c:\users\ambuja\desktop\2 player\add name.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<iostream>
+	<stdlib.h>
+
+1427154634 c:\users\ambuja\desktop\2 player\convert.h
+
+1427008144 c:\users\ambuja\desktop\2 player\scorekeeper.h
+
+1427008291 c:\users\ambuja\desktop\2 player\exp.h
+
+1427723164 c:\users\ambuja\desktop\2 player\display.h
+
+1427705442 source:c:\users\ambuja\desktop\2 player\equations.cpp
+
+1427725562 c:\users\ambuja\desktop\2 player\eqqq.h
+
+1429027233 source:c:\users\ambuja\music\2 player - 30.03.2015\main.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5\allegro_image.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<cstdio>
+	"display_screen.h"
+	"dis_smile.h"
+	"convert.h"
+	"eqqq.h"
+	"country.h"
+	"display.h"
+	"whitescreen.h"
+	"color.h"
+	"images.h"
+	"maze.h"
+	"smiles.h"
+	"display_alphabet.h"
+	"alphabet.h"
+
+1428918317 c:\users\ambuja\music\2 player - 30.03.2015\convert.h
+
+1429012205 c:\users\ambuja\music\2 player - 30.03.2015\eqqq.h
+
+1427723164 c:\users\ambuja\music\2 player - 30.03.2015\display.h
+
+1429026858 c:\users\ambuja\music\2 player - 30.03.2015\country.h
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+
+1429014171 c:\users\ambuja\music\2 player - 30.03.2015\whitescreen.h
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+
+1426302864 c:\allegro-5.0.10-msvc-11.0\include\allegro5\allegro_image.h
+
+1429024766 c:\users\ambuja\music\2 player - 30.03.2015\color.h
+
+1429013846 c:\users\ambuja\music\2 player - 30.03.2015\images.h
+
+1429012205 c:\users\ambuja\music\2 player - 30.03.2015\maze.h
+
+1429012205 c:\users\ambuja\music\2 player - 30.03.2015\smiles.h
+
+1429013846 c:\users\ambuja\music\2 player - 30.03.2015\display_screen.h
+
+1429013846 c:\users\ambuja\music\2 player - 30.03.2015\display_alphabet.h
+
+1429012205 c:\users\ambuja\music\2 player - 30.03.2015\alphabet.h
+
+1429013846 c:\users\ambuja\music\2 player - 30.03.2015\dis_smile.h
+
